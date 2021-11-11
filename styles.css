@@ -1,0 +1,34 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: green;
+    background-color: black;
+
+}
+img{
+    background-color: brown;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: magenta
+
+}
+
+ul{
+    background-color: indigo;
+
+}
+li{
+    background-color: hotpink;
+    color: black;
+
+}
+div{
+    background-color: grey;
+
+}
